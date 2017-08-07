@@ -1,2 +1,2 @@
-# communityportraits
-static website for the community portraits project
+# Community Portraits
+The static website for the community portraits project
