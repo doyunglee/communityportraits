@@ -1,0 +1,48 @@
+/*full body of the site*/
+body {
+	background-color: #1C8D00;  
+	margin: 0px;
+}
+
+/*Heading Stuff*/
+.header-photo {
+	width: 100%;
+	height: auto;
+}
+
+.heading {
+	letter-spacing: 2.75px;
+	font-family: FoundersGrotesk-Bold;
+	color: #FFFFFF;
+}
+
+/*Body Stuff*/
+.body-wrapper {
+	margin-left: 7%;
+	margin-right: 7%;
+}
+
+.body-text {
+	font-size: 20px;
+	letter-spacing: 1px;
+	font-family: PostGrotesk-Book;
+	color: #FFFFFF;
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+.diagram-photo {
+	width: 15%;
+	padding:15px;
+}
+
+
+@font-face {
+	font-family: PostGrotesk-Book;
+	src: url(fonts/PostGrotesk-Book.ttf);
+}
+
+@font-face {
+	font-family: FoundersGrotesk-Bold;
+	src: url(fonts/FoundersGrotesk-Bold.ttf);
+}
